@@ -101,9 +101,7 @@ The report should contain the following:
 ## <a id="Final-Report"></a>
 
 [Jupyter Notebook Initial Model](AlphabetSoupCharityInitial.ipynb)
-
 [Jupyter Notebook Opimization 2](AlphabetSoupCharityOptimization2.ipynb)
-
 [Jupyter Notebook optimization 3](AlphabetSoupCharityOptimization3.ipynb)
 
 1. The purpose of the model was to create a machine learning model to assist Alphabet Soup in predicting whether or not an applicant's funding will be successful. The machine learning model was a binary classifier that predicted the success rate fairly accurately.
